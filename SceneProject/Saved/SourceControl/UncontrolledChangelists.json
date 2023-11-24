@@ -5,8 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/unrealscene2/SceneProject/Content/Main.umap",
-				"C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Content/Main.umap"
+				"C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Content/Main.umap",
+				"C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset",
+				"C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Content/Megascans/Surfaces/Mossy_Ground_xiboab2r/NewMaterial.uasset",
+				"C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Content/Megascans/Surfaces/Mossy_Ground_xiboab2r/NewMaterial_Inst.uasset",
+				"C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Content/Megascans/Surfaces/Mossy_Ground_xiboab2r/NewMaterial_Inst_Inst.uasset",
+				"C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Content/Megascans/Surfaces/Mossy_Ground_xiboab2r/NewMaterial_Inst_Inst1.uasset",
+				"C:/unrealscene2/SceneProject/Content/Main.umap"
 			]
 		}
 	]

@@ -1,0 +1,6 @@
+2023/11/24-15:33:49.602 23c0 Creating DB C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/11/24-15:33:49.641 23c0 Reusing MANIFEST C:/Users/kingk/OneDrive/Documenten/Gitkraken/unrealscene2/SceneProject/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/24-15:38:46.399 1ec4 Level-0 table #5: started
+2023/11/24-15:38:46.414 1ec4 Level-0 table #5: 1167 bytes OK
+2023/11/24-15:38:46.416 1ec4 Delete type=0 #3
+2023/11/24-15:38:46.418 1ec4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
