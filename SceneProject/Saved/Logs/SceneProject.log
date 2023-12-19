@@ -1324,3 +1324,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.19-22.12.39:449][ 69]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
 [2023.12.19-22.12.40:087][ 75]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
 [2023.12.19-22.12.40:772][ 82]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 8388608 bytes
+[2023.12.19-22.21.28:477][850]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
